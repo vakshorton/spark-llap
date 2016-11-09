@@ -13,7 +13,7 @@ To build a JAR run 'build/sbt assembly' from the project root.
 ## Using spark-llap
 
 ### Prerequisites
-- Apache Spark&trade; 1.6
+- Apache Spark&trade; 2.0
 - HiveServer2 Interactive (LLAP)
 
 
