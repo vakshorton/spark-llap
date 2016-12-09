@@ -9,7 +9,7 @@ sparkVersion := sys.props.getOrElse("spark.version", "1.6.0")
 
 
 val hadoopVersion = sys.props.getOrElse("hadoop.version", "2.7.1")
-val hiveVersion = sys.props.getOrElse("hive.version", "2.1.0-SNAPSHOT")
+val hiveVersion = sys.props.getOrElse("hive.version", "2.1.0")
 val log4j2Version = sys.props.getOrElse("log4j2.version", "2.4.1")
 val tezVersion = sys.props.getOrElse("tez.version", "0.8.3")
 val thriftVersion = sys.props.getOrElse("thrift.version", "0.9.3")
